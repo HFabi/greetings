@@ -1,0 +1,3 @@
+[submodule "plugins/greetings-de"]
+	path = plugins/greetings-de
+	url = git@github.com:HFabi/greetings-de.git
